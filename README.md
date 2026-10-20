@@ -6,7 +6,7 @@
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pabitrakc1&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Aman83Verma&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 
