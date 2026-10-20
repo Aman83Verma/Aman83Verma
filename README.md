@@ -14,6 +14,8 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 - 🔭 **I’m currently working on Complete Backend Project**<br>- 👯 **I’m looking to collaborate on Frontend and Backend Project with MERN STACK**<br>- 🤝 **I’m looking for help to clarify some doubts about AWS and Docker**<br>- 🌱 **I’m currently learning ExpressJS and Docker**<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- ⚡ **Fun fact:** I Love Coding, Contributing, Solving DSA and Learning new Tech<br>- 😊 **Pronouns:** Aman Verma<br>- 📬 **How to Reach Me:** amanverma6981@gmail.com
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amanverma81) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_aman_verma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanverma81) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanverma69891@gmail.com) 
 
