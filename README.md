@@ -1,6 +1,15 @@
 # 💫 Hi 👋 I'm Aman Verma
 **A passionate Web Developer || Software Engineer || Active to Contribute**
 
+<!-- Right Side Developer Illustration -->
+<img align="right" alt="developer" width="380"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pabitrakc1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+
 🤝 Want to Collabrate Email Me 📧 **amanverma6981@gmail.com**  For any Porjects or any Information you want to share it to me. Feel free to contact.
 
 - 🔭 **I’m currently working on Complete Backend Project**<br>- 👯 **I’m looking to collaborate on Frontend and Backend Project with MERN STACK**<br>- 🤝 **I’m looking for help to clarify some doubts about AWS and Docker**<br>- 🌱 **I’m currently learning ExpressJS and Docker**<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- ⚡ **Fun fact:** I Love Coding, Contributing, Solving DSA and Learning new Tech<br>- 😊 **Pronouns:** Aman Verma<br>- 📬 **How to Reach Me:** amanverma6981@gmail.com
