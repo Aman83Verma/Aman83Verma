@@ -29,12 +29,14 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Aman83Verma&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Aman83Verma&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman83Verma&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aman83Verma&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
