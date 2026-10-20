@@ -2,12 +2,8 @@
 **A passionate Web Developer || Software Engineer || Active to Contribute**
 
 <!-- Right Side Developer Illustration -->
-<!-- <img align="right" alt="developer" width="380"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/> -->
-
 <img align="right" alt="developer" width="380"
-src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"/>
-
+src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gi0f](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aman83Verma&label=Profile%20views&color=0e75b6&style=flat" />
