@@ -1,4 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> &nbsp; Hi 👋 I'm Aman Verma &nbsp;
+<img src="./assets/divider.svg" width="100%"/>
+
 **A passionate Web Developer || Software Engineer || Active to Contribute**
 
 <!-- Right Side Developer Illustration -->
@@ -9,7 +11,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
   <img src="https://komarev.com/ghpvc/?username=Aman83Verma&label=Profile%20views&color=0e75b6&style=flat" />
 </p> -->
 
-
+<!-- Right Side Developer Illustration -->
  <a href="https://github.com/Aman83Verma">
     <img src="https://komarev.com/ghpvc/?username=Aman83Verma&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
   </a>
@@ -26,6 +28,8 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
     <img src="https://img.shields.io/github/stars/Aman83Verma?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
   </a>
 
+  <br>
+
 
 🤝 Want to Collabrate Email Me 📧 **amanverma6981@gmail.com**  For any Porjects or any Information you want to share it to me. Feel free to contact.
 
@@ -34,10 +38,12 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🌐 Socials:
+<img src="./assets/divider.svg" width="100%"/>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Amanverma81) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_aman_verma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanverma81) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanverma69891@gmail.com) 
 
 
 # 💻 Tech Stack: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">
+<img src="./assets/divider.svg" width="100%"/>
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
 --- | --- |
@@ -68,6 +74,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 📊 GitHub Stats:
+<img src="./assets/divider.svg" width="100%"/>
 ![](https://github-readme-stats.shion.dev/api?username=Aman83Verma&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Aman83Verma&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman83Verma&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -80,9 +87,11 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 -->
 
 ### ✍️ Random Dev Quote
+<img src="./assets/divider.svg" width="100%"/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
+<img src="./assets/divider.svg" width="100%"/>
 ![](https://github-contributor-stats.vercel.app/api?username=Aman83Verma&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
 ---
