@@ -2,12 +2,29 @@
 **A passionate Web Developer || Software Engineer || Active to Contribute**
 
 <!-- Right Side Developer Illustration -->
-<img align="right" alt="developer" width="380"
+<!-- <img align="right" alt="developer" width="380"
 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aman83Verma&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</p> -->
+
+
+ <a href="https://github.com/Aman83Verma">
+    <img src="https://komarev.com/ghpvc/?username=Aman83Verma&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aman83Verma?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAman83Verma&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aman83Verma?tab=followers">
+    <img src="https://img.shields.io/github/followers/Aman83Verma?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Aman83Verma">
+    <img src="https://img.shields.io/github/stars/Aman83Verma?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+  </a>
 
 
 🤝 Want to Collabrate Email Me 📧 **amanverma6981@gmail.com**  For any Porjects or any Information you want to share it to me. Feel free to contact.
