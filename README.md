@@ -76,7 +76,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 # 📊 GitHub Activities & Stats:
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman83Verma&theme=tokyonight" alt="GitHub Profile Summary Card" />  
