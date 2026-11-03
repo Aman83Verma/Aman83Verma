@@ -74,7 +74,22 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# 📊 GitHub Stats:
+# 📊 GitHub Activities & Stats:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman83Verma&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&mode=weekly" alt="GitHub Streak" />
+      [![GitHub Streak](https://streak-stats.demolab.com?user=Aman83Verma&theme=dark)](https://git.io/streak-stats)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman83Verma&theme=tokyonight" alt="GitHub Profile Summary Card" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   
 ![](https://github-readme-stats.shion.dev/api?username=Aman83Verma&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
