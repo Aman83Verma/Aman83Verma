@@ -76,22 +76,14 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 # 📊 GitHub Activities & Stats:
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman83Verma&theme=tokyonight" alt="GitHub Profile Summary Card" />
-    </td>
-  </tr>
-
 <div align="center">
-  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman83Verma&theme=tokyonight" alt="GitHub Profile Summary Card" />  
 ![](https://github-readme-stats.shion.dev/api?username=Aman83Verma&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Aman83Verma&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aman83Verma&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
-
-</table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
