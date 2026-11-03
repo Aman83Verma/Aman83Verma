@@ -36,7 +36,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 🤝 Want to Collabrate Email Me 📧 **amanverma6981@gmail.com**  For any Porjects or any Information you want to share it to me. Feel free to contact.
 
-- 🔭 **I’m currently working on Complete Backend Project**<br>- 👯 **I’m looking to collaborate on Frontend and Backend Project with MERN STACK**<br>- 🤝 **I’m looking for help to clarify some doubts about AWS and Docker**<br>- 🌱 **I’m currently learning ExpressJS and Docker**<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- ⚡ **Fun fact:** I Love Coding, Contributing, Solving DSA and Learning new Tech<br>- 😊 **Pronouns:** Aman Verma<br>- 📬 **How to Reach Me:** amanverma6981@gmail.com
+- 🔭 **I’m currently working on Complete Backend Project**<br> - 👯 **I’m looking to collaborate on Frontend and Backend Project with MERN STACK**<br> - 🤝 **I’m looking for help to clarify some doubts about AWS and Docker**<br> - 🌱 **I’m currently learning ExpressJS and Docker**<br> - 💬 **Ask me about:** Collaboration, Tech Support<br> - ⚡ **Fun fact:** I Love Coding, Contributing, Solving DSA and Learning new Tech<br>- 😊 **Pronouns:** Aman Verma<br> - 📬 **How to Reach Me:** amanverma6981@gmail.com
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
